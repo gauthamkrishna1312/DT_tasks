@@ -1,0 +1,136 @@
+* { 
+    padding: 0;
+    margin: 0;
+}
+.root {
+    margin: 0px;
+    background-color: rgb(196, 133, 133);
+}
+body {
+    margin: 0%;
+    padding: 0%;
+}
+.h1 {
+    font: 200;
+}
+.logo01 {
+   padding-left: 25px;
+   padding-top: 25px;
+}
+.options {
+    width: 200px;
+    position: absolute;
+    left: 86.68%;
+    right: 19.24%;
+    top: 25%;
+    bottom: 97.12%;
+    float: right;
+}
+.col {  
+    width: 20px;
+    padding: 5px;
+    float: right;
+}
+.header {
+    position: absolute;
+    width: 100%;
+    height: 90px;
+    left: 0px;
+    top: 0px;
+
+    background: #F0F0F0;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.image01 {
+    position: absolute;
+    width: 448px;
+    height: 627px;
+    left: 768px;
+    top: 399px;
+
+    background: url(image.png);
+}
+.left-section {
+    width: 15%;
+    margin-top: 120px;
+    background-color: white;
+    height: 570px;
+    float: left;
+}
+.left-section-box {
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    height: 545px;
+    border: 2px solid #0d0e0d;
+    border-radius: 20px;
+    background-color: white;
+}
+.left-section-box-heading {
+    height: 36px;
+    background-color: rgb(5, 0, 0);
+    padding-left: 10px;
+    padding-top: 6px;
+    border-radius: 20px;
+}
+.left-section-box-subhead{
+    margin-top: 10px;
+    height: 478px;
+    padding-left: 15px;
+    padding-top: 10px;
+    border-radius: 20px;
+    background-color: white;
+}
+.main-content {
+    width: 84%;
+    margin-top: 130px;
+    background-color: white;
+    height: 1226px;
+    float: left;
+    border-radius: 20px;
+    border: 1px solid #F0F0F0;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.main-content-heading {
+    width: 99%;
+    height: 45px;
+    padding-left: 10px;
+    padding-top: 15px;
+    background-color: #0029FF;
+    border-radius: 20px;
+}
+.main-content-box {
+    width: 40%;
+    height: 200px;
+    margin-top: 35px;
+    margin-left: 85px;
+    border-radius: 20px;
+    float: left;
+    border: 1px solid black;
+    background-color: white;
+}
+.main-content-box-youtube{
+    width: 40%;
+    height: 383px;
+    margin-top: 35px;
+    margin-left: 355px;
+    border-radius: 20px;
+    float: left;
+    border: 1px solid black;
+    background-color: white;
+}
+.main-content-box-heading {
+    width: 98.00%;
+    height: 37px;
+    padding-top: 16px;
+    padding-left: 13px;
+    border-radius: 20px;
+    background-color: #000000;
+}
+.main-content-box-list {
+    width: 99.00%;
+    height: 122px;
+    padding-top: 9px;
+    padding-left: 5px;
+    background-color: #ffffff;
+}
